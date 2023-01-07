@@ -23,6 +23,7 @@ import java.util.List;
  *
  * @author yanhom
  * @since 1.0.0
+ * TODO(sean chen): 2023/1/7 core代码添加必要的注释
  **/
 @Endpoint(id = "dynamic-tp")
 public class DtpEndpoint {
