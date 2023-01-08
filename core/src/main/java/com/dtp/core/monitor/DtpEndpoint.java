@@ -23,7 +23,7 @@ import java.util.List;
  *
  * @author yanhom
  * @since 1.0.0
- * TODO(sean chen): 2023/1/7 core代码添加必要的注释
+ * TODO(sean chen): 2023/1/7 core代码添加必要的注释 1.1 首先注释VariableLinkedBlockingQueue
  **/
 @Endpoint(id = "dynamic-tp")
 public class DtpEndpoint {
